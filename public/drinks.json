@@ -1,0 +1,7 @@
+{
+  "drinks": [
+    {"name": "Cola", "price": 1.5, "quantity": 1},
+    {"name": "Water", "price": 0.5, "quantity": 1},
+    {"name": "Tea", "price": 0.75, "quantity": 0}
+  ]
+}

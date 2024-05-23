@@ -1,0 +1,7 @@
+{
+  "toppings": [
+    {"name": "ICE", "price": 0.5, "quantity": 3},
+    {"name": "lemon", "price": 0.1, "quantity": 1},
+    {"name": "sugar", "price": 0.1, "quantity": 1}
+  ]
+}
